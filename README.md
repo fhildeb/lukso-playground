@@ -1,4 +1,4 @@
-**This repository was transferred to [lukso-network/lukso-playground](https://github.com/lukso-network/lukso-playground).**
+**This repository was transferred to [lukso-network/lukso-playground](https://github.com/lukso-network/lukso-playground) and is no longer maintained.**
 
 # lukso-playground
 
